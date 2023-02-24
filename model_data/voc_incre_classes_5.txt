@@ -1,0 +1,5 @@
+pottedplant
+sheep
+sofa
+train
+tvmonitor
